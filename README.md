@@ -1,3 +1,3 @@
 This is Derrick's first git project!
 
-Testing new configurations - 1/23/18
+Testing new configurations pt2 - 1/23/18
